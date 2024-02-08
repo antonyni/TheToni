@@ -13,7 +13,7 @@ const Home = () => {
         <h1>clues</h1>
         <h2>down</h2>
         <p>2. A song by Jimmy Brown</p>
-        <p>3.&ldquo; __ lovee is mine all mine&rdquo; </p>
+        <p>3.&ldquo; __ love is mine all mine&rdquo; </p>
         <h2>across</h2>
         <p>1. My Cousin</p>
         <p>5. Yu__e</p>
